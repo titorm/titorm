@@ -10,7 +10,7 @@ I'm Tito Motter, a software developer who creates digital experiences.
 
 - :man_technologist: Currently working remote at **Nexfar Tecnologia**
 - :rocket: Techs: Javascript, React.js, React Native, Java.
-- :books: Studiyng: Flutter, Node.js.
+- :books: Studying: Flutter, Node.js.
 
 ---
 
