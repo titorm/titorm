@@ -14,8 +14,6 @@ I'm Tito Motter, a software developer who creates digital experiences.
 
 ---
 
-<br>
-
 <img align="left" alt="titorm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=titorm&show_icons=true&hide_border=true" />
 
 <br>
