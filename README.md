@@ -22,7 +22,7 @@ I'm Tito Motter, a software developer who creates digital experiences.
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=titorm&theme=dark&border=61dafb&hide_border=true" alt="LeonardoGarciah" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-ivory-phi-80.vercel.app/api?username=LeonardoGarciah&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=390 src="https://github-readme-stats-ivory-phi-80.vercel.app/api?username=titorm&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
   </div>
   
