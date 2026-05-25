@@ -8,9 +8,9 @@
 
 I'm Tito Motter, a software developer who creates digital experiences.
 
-- :man_technologist: Currently working at **Nexfar Tecnologia**
-- :rocket: Techs: TypeScript, Javascript, React.js, React Native, Java, Flutter, Dart.
-- :books: Studying: Python.
+- :man_technologist: Currently working at **Deepful**
+- :rocket: Techs: TypeScript, Javascript, React.js, React Native, Expo, Java, Flutter, Dart.
+- :books: Studying: AI.
 
 <br>
 
